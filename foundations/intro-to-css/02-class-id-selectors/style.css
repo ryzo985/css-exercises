@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.a {
+    background-color: rgb(227, 94, 131);
+    color: #000000;
+    font-family: Verdana, "DejaVu sans", sans-serif;
+}
+
+#simple {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#cooler {
+    font-size: 24px;
+}
+
+#again {
+    background-color: rgb(74, 199, 74);
+    font-size: 24px;
+    font-weight: bold;
+}
